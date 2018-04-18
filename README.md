@@ -21,6 +21,9 @@ The player who succeeds in placing three of their marks in a horizontal, vertica
 ![screenshot](https://user-images.githubusercontent.com/34499639/38940269-a2587910-4321-11e8-9447-feb6c13115c9.png)
 
 
+![screenshot3](https://user-images.githubusercontent.com/34499639/38941780-3180a1c8-4325-11e8-8a5b-b9ece1c0496d.png)
+
+
 ![screenshot1](https://user-images.githubusercontent.com/34499639/38940304-b59ffc00-4321-11e8-91b2-f0f8f1ca55b9.png)
 
 
